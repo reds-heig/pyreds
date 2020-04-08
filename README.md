@@ -1,2 +1,2 @@
 # Project moved!
-This project has moved to: https://gitlab.com/reds-public/pyreds
+This project is now on GitLab: https://gitlab.com/reds-public/pyreds
